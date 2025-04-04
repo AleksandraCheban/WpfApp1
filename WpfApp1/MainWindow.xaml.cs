@@ -110,6 +110,7 @@ namespace WpfApp1
     private void textBoxHeight_TextChanged(object sender, TextChangedEventArgs e)
     {
 
+
     }
 }
 
